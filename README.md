@@ -41,8 +41,8 @@ An NLP-powered web application that automatically summarizes uploaded PDF docume
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/research-paper-summarizer.git
-cd research-paper-summarizer
+git clone https://github.com/your-username/research-paper-summarizer.git](https://github.com/martinagomezmartin/Summarization-App.git
+cd Summarization-App
 ```
 
 ## Prerequisites
