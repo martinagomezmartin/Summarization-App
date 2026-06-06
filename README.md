@@ -43,10 +43,12 @@ An NLP-powered web application that automatically summarizes uploaded PDF docume
 ```bash
 git clone https://github.com/your-username/research-paper-summarizer.git
 cd research-paper-summarizer
+```
 
 ## Prerequisites
 ```bash
 pip install -r requirements.txt
+```
 
 
 
@@ -55,3 +57,4 @@ To run the code, go to the directory where Welcome.py is found and run the follw
 
 ```bash
 streamlit run app.py
+```
